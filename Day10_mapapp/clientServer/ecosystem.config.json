@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "spiceyMap",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}

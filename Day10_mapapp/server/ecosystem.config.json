@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "map.api",
+      "script": "npm",
+      "args": "start",
+      "env": {
+        "DATABASE_URL": "mongodb://spiceybrisket:EblkuWxp0012@whatyalookinat-shard-00-00-r3bvs.mongodb.net:27017,whatyalookinat-shard-00-01-r3bvs.mongodb.net:27017,whatyalookinat-shard-00-02-r3bvs.mongodb.net:27017/guestMap?ssl=true&replicaSet=whatyalookinat-shard-0&authSource=admin&retryWrites=true&w=majority"
+      }
+    }
+  ]
+}

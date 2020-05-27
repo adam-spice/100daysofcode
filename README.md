@@ -11,3 +11,9 @@ Day 3 I used Quasar and Firebase to build a real time chat app. It was surprisin
 Day 4 Added a contact form to my website that will store the email message in the website backend and also email it to me.
 
 Day 5 started developing a flutter web to do app.
+
+Day 6 Developed an credit card payment form using HTML, CSS and JavaScript
+
+Day 7 continued working on my Flutter web to do app. Got sign in with google working.
+
+Started working on a discord clone using Feathers

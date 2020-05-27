@@ -16,4 +16,11 @@ Day 6 Developed an credit card payment form using HTML, CSS and JavaScript
 
 Day 7 continued working on my Flutter web to do app. Got sign in with google working.
 
+Day 8 Day 8 more work on the Flutter web to do app
+
+Day 9 complete, went back to basics today and did some of the
+@freeCodeCamp tutorials.
+
+Day 10 Built an add using React, ExpressJs and leaflet. It's a bit like an old school guestbook where you can leave a message and show were you are. https://spiceymap.adam-spice.online
+
 Started working on a discord clone using Feathers

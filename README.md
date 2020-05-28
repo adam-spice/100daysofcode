@@ -25,4 +25,6 @@ Day 10 Built an add using React, ExpressJs and leaflet. It's a bit like an old s
 
 Day 11 played around with learning express authentication and permissions.
 
+Day 12 used CSS to create some emojis, found this a great way to understand CSS positioning.
+
 Started working on a discord clone using Feathers

@@ -23,4 +23,6 @@ Day 9 complete, went back to basics today and did some of the
 
 Day 10 Built an add using React, ExpressJs and leaflet. It's a bit like an old school guestbook where you can leave a message and show were you are. https://spiceymap.adam-spice.online
 
+Day 11 played around with learning express authentication and permissions.
+
 Started working on a discord clone using Feathers

@@ -76,9 +76,9 @@ body {
 
 .face-mask {
   left: calc(var(--emoji-size) * 0.2);
+  transform: none;
   width: calc(var(--emoji-size) * 0.6);
   height: calc(var(--emoji-size) * 0.35);
-  transform: none;
   border-radius: 10%;
   background-color: white;
   border: calc(var(--emoji-size) * 0.02) solid #999;
@@ -90,7 +90,6 @@ body {
   border: calc(var(--emoji-size) * 0.02) solid #999;
   width: calc(var(--emoji-size) * 0.5);
   height: calc(var(--emoji-size) * 0.1);
-
   z-index: -2;
 }
 
@@ -112,7 +111,7 @@ body {
   left: calc(var(--emoji-size) * -0.4);
 }
 
-.strap-bottom-left {
+.strap-bottom-right {
   transform: rotate(30deg);
   bottom: calc(var(--emoji-size) * -0.06);
   right: calc(var(--emoji-size) * -0.4);

@@ -11,7 +11,19 @@ const T = new Twit({
 });
 
 // start stream and track tweets
-const stream = T.stream('statuses/filter', { track: '#100DaysOfCode' });
+const stream = T.stream('statuses/filter', {
+  track: [
+    '#100DaysOfCode',
+    '#CodeNewbie',
+    '#JavaScript',
+    '#CSS3',
+    '#HTML5',
+    '#CodeNewbie',
+    '#CodeNewbies',
+    '#freeCodeCamp',
+    '#FrontEnd ',
+  ],
+});
 
 // use this to log errors from requests
 function responseCallback(err, data, response) {}

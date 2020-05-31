@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "GnutsBot",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}

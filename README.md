@@ -27,4 +27,9 @@ Day 11 played around with learning express authentication and permissions.
 
 Day 12 used CSS to create some emojis, found this a great way to understand CSS positioning.
 
+Day 13 built and deployed a Twitter bot. Built it it using
+@nodejs @CodeGnuts
+
+Day 14 Carried on Working on my @freeCodeCamp portfolio
+
 Started working on a discord clone using Feathers
